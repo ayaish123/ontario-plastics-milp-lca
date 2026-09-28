@@ -9,7 +9,7 @@ The model integrates life cycle assessment (LCA) with mixed-integer linear progr
 
 ## Repository contents
 
-- `MILP_LCA__S0_S5.ipynb`  
+- `MILP_LCA_S0_S5.ipynb`  
   Jupyter notebook that loads the published optimization data, solves the base case, and reproduces the S0–S5 scenario and sensitivity analyses.
 
 - `Optimization formulation.xlsx`  
